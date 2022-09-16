@@ -9,3 +9,4 @@ with open ('benches.csv') as csvfile:
     # for every row in the reader value
     for row in values:
         print( row)
+
